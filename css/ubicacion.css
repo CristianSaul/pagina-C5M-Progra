@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap);
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#mapa {
+	width: 709px;
+	height: 850px;
+	background-color: #323232;
+	float: right;
+	margin-top: -5px;
+}
+
+#mapa h15 {
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+
+#mapa h16 {
+	font-size: 45px;
+	text-align: center;
+	color: white;
+	font-family: 'Caveat', cursive;
+}
+
+#mapa h17 {
+	font-size: 20px;
+	color: white;
+	font-family: 'Caveat', cursive;
+}
+
+
+#mapa iframe {
+	width: 550px;
+	height: 250px;
+	
+}
+
+#fotos img {
+	width: 500px;
+	height: 400px;
+}

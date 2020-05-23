@@ -1,0 +1,36 @@
+*/
+body{
+    background-color: gray;
+    font-family: fantasy;
+	text-align: center;
+}
+#main-tabla {
+    margin: 100px auto;
+    width: 600px;
+}
+
+}
+table {
+    background-color: white;
+    text-align: left;
+    width: 100%;
+	text-align: center;
+}
+th, td {
+    
+ padding: 5px;    
+}
+#encabezado {
+    background-color: #246355;
+    border-bottom: solid 5px #0F362D;
+    color: white;
+}
+tr:hover {
+    background-color: #369681;
+    color: white;
+}
+
+tr img {
+	width: 50px;
+	height: 20px;
+}

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+#blogproyectos h4 {
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+#blogproyectos p {
+	text-align: center;
+	color: gray;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 18px;
+}
+
+#blogproyectos .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#blogproyectos article {
+	margin: 15px;
+}
+
+#blogproyectos img {
+	width: 100%;
+	max-width: 400px;
+}
+
+#info {
+	background: rgba(51,51,51,1);
+	color:#fff;
+	text-align: center;
+	padding: 20px;
+}
+
+#info .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info-tato img {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+		
+}
+
+.info-tato {
+	margin: 20px;
+}
+
+#blog .contenedor {
+	display: flex;
+	justify-content: center;
+	
+
+}
+
+#blog article{
+	margin: 100px;
+}
+
+#blog img {
+	width: 100%;
+	max-width: 500px;
+}
